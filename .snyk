@@ -8,8 +8,16 @@ patch:
         patched: '2017-12-20T20:29:46.368Z'
     - grunt-contrib-watch > tiny-lr > body-parser > debug:
         patched: '2017-12-20T20:29:46.368Z'
+    - grunt-accessibility > access-sniff > html_codesniffer > grunt-contrib-watch > tiny-lr > debug:
+        patched: '2018-02-20T22:03:56.042Z'
+    - grunt-accessibility > access-sniff > html_codesniffer > grunt-contrib-watch > tiny-lr > body-parser > debug:
+        patched: '2018-02-20T22:03:56.042Z'
   'npm:ms:20170412':
     - grunt-contrib-watch > tiny-lr > debug > ms:
         patched: '2017-12-20T20:29:46.368Z'
     - grunt-contrib-watch > tiny-lr > body-parser > debug > ms:
         patched: '2017-12-20T20:29:46.368Z'
+    - grunt-accessibility > access-sniff > html_codesniffer > grunt-contrib-watch > tiny-lr > debug > ms:
+        patched: '2018-02-20T22:03:56.042Z'
+    - grunt-accessibility > access-sniff > html_codesniffer > grunt-contrib-watch > tiny-lr > body-parser > debug > ms:
+        patched: '2018-02-20T22:03:56.042Z'
