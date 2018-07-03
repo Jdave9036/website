@@ -40,7 +40,7 @@
     "grunt-usemin": "^3.1.1",
     "load-grunt-tasks": "^3.5.2",
     "time-grunt": "^1.4.0",
-    "snyk": "^1.61.2"
+    "snyk": "^1.88.0"
   },
   "engines": {
     "node": ">=8"
