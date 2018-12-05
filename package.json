@@ -26,13 +26,13 @@
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-connect": "^1.0.2",
     "grunt-contrib-csslint": "^2.0.0",
-    "grunt-contrib-cssmin": "^2.0.0",
-    "grunt-contrib-htmlmin": "^2.0.0",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-htmlmin": "^2.4.0",
     "grunt-contrib-uglify": "^3.0.0",
     "grunt-contrib-watch": "^1.0.0",
-    "grunt-eslint": "^20.0.0",
+    "grunt-eslint": "^20.1.0",
     "grunt-filerev": "^2.3.1",
-    "grunt-html": "^8.4.0",
+    "grunt-html": "^8.6.0",
     "grunt-jekyll": "^0.4.4",
     "grunt-link-checker": "^0.2.0",
     "grunt-markdownlint": "^1.0.23",
@@ -40,7 +40,7 @@
     "grunt-usemin": "^3.1.1",
     "load-grunt-tasks": "^3.5.2",
     "time-grunt": "^1.4.0",
-    "snyk": "^1.61.2"
+    "snyk": "^1.114.0"
   },
   "engines": {
     "node": ">=8"
