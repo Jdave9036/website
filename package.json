@@ -19,7 +19,7 @@
     "prepare": "npm run snyk-protect"
   },
   "dependencies": {
-    "grunt": "^1.0.1",
+    "grunt": "^1.0.4",
     "grunt-accessibility": "^5.0.0",
     "grunt-autoprefixer": "^3.0.4",
     "grunt-contrib-clean": "^1.0.0",
